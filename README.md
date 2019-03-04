@@ -1,7 +1,7 @@
 # AskSteve
 Ask Steve is a repository with summarized topics about development on Apple platforms
 
-##(WIP)
+## (WIP)
 ## Inspecting Variables with LLDB 
 This was inspired by [Inspecting Variables with LLDB - Intermediate Debugging in iOS - raywenderlich.com](https://www.youtube.com/watch?v=WwBUcof0lKw), it summarizes the video idea and add some reference and comments
 
