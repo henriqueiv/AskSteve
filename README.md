@@ -11,7 +11,7 @@ This was inspired by [Inspecting Variables with LLDB - Intermediate Debugging in
 ### po
 Evaluate an expression on the current thread. Displays any returned value with formatting controlled by the type's author.  
 Expects 'raw' input (see 'help raw-input'.)
-
+```
 <raw-input> -- Free-form text passed to a command without prior interpretation, allowing spaces without requiring quotes.  
 To pass arguments and free form text put two dashes ' -- ' between the last argument and any raw input.
 
@@ -19,7 +19,7 @@ Syntax: `po <expr>`
 
 Command Options Usage:
   `po <expr>`
-
+```
 
 `po` is an abbreviation for `expression -O  --`
 
